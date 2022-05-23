@@ -4,9 +4,9 @@ Hi 👋 My name is Macaulay Uzu.
 I am a Software Developer and a Technical Writer.
 -----------------------------------------------
 
-* 🖥️  See my portfolio at [https://macaulay.netlify.app](http://macaulay.netlify.app)
+* 🖥️  See my portfolio at [https://macaulay.netlify.app](https://macaulay.netlify.app/)
 * ✉️  You can contact me at [macdon202@gmail.com](mailto:macdon202@gmail.com)
-* 🚀  I'm currently working on [GMR](https://getmyreceipt.herokuapp.com)
+* 🚀  I'm currently working on [GMR](https://getmyreceipt.herokuapp.com/)
 * 🧠  I'm learning MERN Stack Technologies
 * 🤝  I'm open to collaborating on Fullstack Web Development Projects
 
