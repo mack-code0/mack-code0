@@ -1,8 +1,5 @@
-Hi 👋 My name is Macaulay Uzu.
+Macaulay Uzu, Software Developer and a Technical Writer.
 ==============================
-
-Software Developer and a Technical Writer.
------------------------------------------------
 
 * 🖥️  See my portfolio at [https://macaulay.netlify.app](https://macaulay.netlify.app/)
 * ✉️  You can contact me at [macdon202@gmail.com](mailto:macdon202@gmail.com)
