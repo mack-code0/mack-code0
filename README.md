@@ -1,14 +1,14 @@
 Hi 👋 My name is Macaulay Uzu.
 ==============================
 
-I am a Software Developer and a Technical Writer.
+Software Developer and a Technical Writer.
 -----------------------------------------------
 
 * 🖥️  See my portfolio at [https://macaulay.netlify.app](https://macaulay.netlify.app/)
 * ✉️  You can contact me at [macdon202@gmail.com](mailto:macdon202@gmail.com)
-* 🚀  I'm currently working at [Hydrogen](https://hydrogenhr.com/)
-* 🧠  I'm learning MERN Stack Technologies
-* 🤝  I'm open to collaborating on Fullstack Web Development Projects
+* 🚀  Currently working at [Hydrogen](https://hydrogenhr.com/)
+* 🧠  Learning MERN Stack Technologies
+* 🤝  Open to collaborating on Fullstack Web Development Projects
 
 <a href="https://www.twitter.com/mccauley_json" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mccauley_json?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
