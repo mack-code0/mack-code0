@@ -1,5 +1,5 @@
-Macaulay Uzu, Software Developer and a Technical Writer.
-==============================
+Macaulay Uzu, Software Developer and Technical Writer.
+======================================================
 
 * 🖥️  See my portfolio at [https://macaulay.netlify.app](https://macaulay.netlify.app/)
 * ✉️  You can contact me at [macdon202@gmail.com](mailto:macdon202@gmail.com)
