@@ -6,7 +6,7 @@ Software Developer and a Technical Writer.
 
 * 🖥️  See my portfolio at [https://macaulay.netlify.app](https://macaulay.netlify.app/)
 * ✉️  You can contact me at [macdon202@gmail.com](mailto:macdon202@gmail.com)
-* 🚀  Currently working at [Hydrogen](https://hydrogenhr.com/)
+* 🚀  Currently working at [Hydrogen](https://www.hydrogenhr.com/)
 * 🧠  Learning MERN Stack Technologies
 * 🤝  Open to collaborating on Fullstack Web Development Projects
 
