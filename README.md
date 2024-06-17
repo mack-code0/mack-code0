@@ -1,10 +1,10 @@
 Macaulay Uzu, Software Developer and Technical Writer.
 ======================================================
 
-* 🖥️  See my portfolio at [https://macaulay.netlify.app](https://macaulay.netlify.app/)
+<!-- 🖥️  See my portfolio at [https://macaulay.netlify.app](https://macaulay.netlify.app/) -->
 * ✉️  Contact me at [macdon202@gmail.com](mailto:macdon202@gmail.com)
 * 🚀  Currently working at [Hydrogen](https://www.hydrogenhr.com/)
-* 🧠  Learning MERN Stack Technologies
+* 🧠  Working with MERN Stack Technologies
 * 🤝  Open to collaborating on Fullstack Web Development Projects
 
 <a href="https://www.twitter.com/mccauley_json" target="_blank" rel="noreferrer"><img
